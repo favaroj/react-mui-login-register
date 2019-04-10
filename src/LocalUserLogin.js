@@ -57,7 +57,7 @@ class LocalUserLogin extends Component {
                 }}
                 required
                 className={classes.field}
-                label="Username"
+                label="Email"
             />
 
             <ValidatedTextField
