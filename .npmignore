@@ -1,10 +1,10 @@
 /coverage/
 
 /es/
-/lib/
+
 /node_modules/
 /umd/
-/build/
+
 npm-debug.log*
 /yarn-error.log
 /test-results/
